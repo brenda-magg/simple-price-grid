@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Single price grid component](https://brenda-magg.github.io/simple-price-grid/)
 
 ## My process
 
